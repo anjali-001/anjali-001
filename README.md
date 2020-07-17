@@ -3,7 +3,7 @@ Hey there ⚡
 Hey, I am Anjali. Bibliophile, web developer, content writer and a painter(read it un artiste with a french accent). 📚 👩‍💻
  - Learning React and Firebase  🌱
  - Pronouns- she/her
- - Love CSS( probably writing this after an unsuccessful attempt to centre a div) 💕
+ - Love CSS( probably writing this after an unsuccessful attempt to center a div) 💕
  - Let's discuss web technologies, art and mechanical keyboards ⌨️
  - What's your WiFi password? *Wait! What?!*
 
