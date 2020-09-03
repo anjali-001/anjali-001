@@ -1,6 +1,6 @@
 Hey there ⚡
 
-Hey, I am Anjali. Bibliophile, web developer, content writer and a painter(read it un artiste with a french accent). 📚 👩‍💻
+I am Anjali. Bibliophile, web developer, content writer and a painter(read it un artiste with a french accent). 📚 👩‍💻
  - Learning React and Firebase  🌱
  - Pronouns- she/her
  - Love CSS(*sarcasm?*) 💕
