@@ -1,7 +1,7 @@
 Hey there ⚡
 
 I am Anjali. Bibliophile, web developer, content writer and a painter(read it un artiste with a french accent). 📚 👩‍💻
- - Learning React and Firebase  🌱
+ - Learning(trying to brush up on) data structures and algorithms  🌱
  - Pronouns- she/her
  - Love CSS(*sarcasm?*) 💕
  - Let's discuss web technologies, art and mechanical keyboards ⌨️
