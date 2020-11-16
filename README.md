@@ -7,5 +7,5 @@ I am Anjali. Bibliophile, web developer, content writer and a painter(read it un
  - Let's discuss web technologies, art and mechanical keyboards ⌨️
  - What's your WiFi password? (*Wait! What?!*)
 
-Reach out to me on [Twitter](https://twitter.com/_Anjali19_), [LinkedIn](https://www.linkedin.com/in/anjali-singh19) and [Instagram](https://www.instagram.com/_anjali19___/)
+Reach out to me on [Twitter](https://twitter.com/_Anjali19_), [LinkedIn](https://www.linkedin.com/in/anjali-singh19) or [Instagram](https://www.instagram.com/_anjali19___/)
 
