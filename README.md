@@ -10,5 +10,5 @@ I am Anjali. Full stack developer, content writer and a painter(read it un artis
  
  <img src="https://github-readme-stats.vercel.app/api?username=anjali-001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=94a1b2&bg_color=16161a"/>
 
-Reach out to me on [Twitter](https://twitter.com/_Anjali19_), [LinkedIn](https://www.linkedin.com/in/anjali-singh19) or [Instagram](https://www.instagram.com/_anjali19___/)
+Reach out to me on [Twitter](https://twitter.com/_Anjali19_), [LinkedIn](https://www.linkedin.com/in/anjali-singh19).
 
