@@ -2,7 +2,7 @@
 Hey there ⚡
 
 I am Anjali. Full stack developer, content writer and a painter(read it un artiste with a french accent). 📚 👩‍💻
- - Learning Django  🌱
+ - Working to upskill on data structures and algorithm. 🌱
  - Pronouns- she/her
  - Love CSS(*sarcasm?*) 💕
  - Let's discuss web technologies, art and mechanical keyboards ⌨️
