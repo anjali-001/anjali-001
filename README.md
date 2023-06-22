@@ -1,7 +1,7 @@
 
 Hey there ⚡
 
-I am Anjali. Full stack developer, content writer and a painter(read it un artiste with a french accent). 📚 👩‍💻
+I am Anjali. Full stack developer & a painter(read it un artiste with a french accent). 📚 👩‍💻
  - Working to upskill on data structures and algorithms. 🌱
  - Pronouns- she/her
  - Love CSS(*sarcasm?*) 💕
